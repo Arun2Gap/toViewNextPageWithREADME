@@ -8,3 +8,5 @@ this is to pull request and change it by squash and merge option but it merge on
 this the another line which is commited 2.
 
 this is to pull request and merge by rebase and merge.it is same as squash.
+
+this the another line to find that it will save commit 2
