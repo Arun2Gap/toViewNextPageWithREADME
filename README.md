@@ -7,4 +7,4 @@ this is to pull request and change it by squash and merge option but it merge on
 
 this the another line which is commited 2.
 
-
+git revert c978d4f1e14f9142d2b43b0d5f648e69cb565f06
